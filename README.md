@@ -5,5 +5,6 @@ Prediction using supervised learning
 
 Task- Predict the percentage of the student based on the no. of study hours.
 
-IDE: Jupyter notebook
 Language: Python
+IDE: Jupyter notebook
+
